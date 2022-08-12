@@ -1,9 +1,9 @@
-A simple notes program based on REST architecture and basic CRUD operations
+# A simple notes program based on REST architecture and basic CRUD operations
 
-List of notes
+- List of notes
 
-Insert note
+- Insert note
 
-Edit note
+- Edit note
 
-Delete note
+- Delete note
