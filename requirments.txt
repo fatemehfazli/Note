@@ -1,3 +1,2 @@
-Flask-JWT
 Flask-RESTful
 Flask-SQLAlchemy
